@@ -1,0 +1,28 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: blanchedalmond;
+  height: 100vh;
+  padding: 20px;
+  margin-top: 10px;
+}
+body {
+  margin: 0px;
+}
+.heading {
+  color: darkblue;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 40px;
+}
+.input-search {
+  width: 70vh;
+  height: 7vh;
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
